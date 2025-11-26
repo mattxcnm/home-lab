@@ -15,6 +15,17 @@ This document catalogs all services, applications, and containers running in the
 | Productivity | 0 | ⚠️ | Cloud services |
 | **Total Services** | **0** | **⚠️** | |
 
+### Specific Services
+
+| Name | Category | Node | Notes |
+| Proxmox ||||
+| Uptime Kuma ||||
+| Cloudflared ||||
+| Home Assistant ||||
+| ESP Home ||||
+|  ||||
+|||||
+
 ## 🏗️ Infrastructure Services
 
 ### Virtualization Platform
